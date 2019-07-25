@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:padding="20dp"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/button1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="A" />
+
+    <TextView
+        android:id="@+id/button2"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="B" />
+
+    <TextView
+        android:id="@+id/button3"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="C" />
+
+    <TextView
+        android:id="@+id/button4"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="D" />
+
+    <TextView
+        android:id="@+id/button5"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="E" />
+
+    <TextView
+        android:id="@+id/button6"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="F" />
+
+    <TextView
+        android:id="@+id/button7"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="G" />
+
+    <TextView
+        android:id="@+id/button8"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="H" />
+
+    <TextView
+        android:id="@+id/button9"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="I" />
+
+    <TextView
+        android:id="@+id/button10"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="J" />
+
+    <TextView
+        android:id="@+id/button11"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="K" />
+
+    <TextView
+        android:id="@+id/button12"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="L" />
+
+
+
+
+</GridLayout>
